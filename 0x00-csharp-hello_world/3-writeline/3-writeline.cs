@@ -10,4 +10,3 @@ namespace _3_writeline
         }
     }
 }
-
