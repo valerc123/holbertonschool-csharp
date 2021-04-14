@@ -6,7 +6,10 @@ namespace _2_print_alphabet
     {
         static void Main(string[] args)
         {
-            Console.Write("abcdefghijklmnopqrstuvwxy");
+            for(byte a = 97; a <= 122; a++)
+            {
+                Console.Write((char)a);
+            }
         }
     }
 }
