@@ -8,7 +8,7 @@ namespace _4_print_hexa
         {
             int num = 0;
             while (num <= 98){
-                Console.Write("{0} = 0x{0:x} \n", num);
+                Console.Write("{0} = 0x{0:x}\n", num);
                 num++;
             }
         }
