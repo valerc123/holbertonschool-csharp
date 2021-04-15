@@ -5,7 +5,7 @@ class List
 {
     public static List<int> CreatePrint(int size)
     {
-        List<int> new_list = new List<int>(size);
+        List<int> new_list = new List<int>();
         if (size < 0){
             Console.WriteLine("Size cannot be negative");
             return null;
