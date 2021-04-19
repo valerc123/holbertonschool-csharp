@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class Dictionary
 {
@@ -8,9 +9,7 @@ class Dictionary
             myDict.Add(key, value);
             return myDict;
         }
-        else {
-            myDict[key] = value;
-            return myDict;
-        }
+        myDict[key] = value;
+        return myDict;
     }
 }
