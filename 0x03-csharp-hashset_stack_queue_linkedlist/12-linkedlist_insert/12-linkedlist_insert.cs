@@ -4,13 +4,22 @@ using System.Collections.Generic;
 
 class LList
 {
-    public static LinkedListNode<int> Insert(LinkedList<int> myLList, int n)
+  public static LinkedListNode<int> Insert(LinkedList<int> myLList, int n)
     {
-        LinkedListNode<int> new_node = new LinkedListNode<int>(n);
-        //int value = n;
-        LinkedListNode<int> node = myLList.Find(16);
-        myLList.AddAfter(node, new_node);
-        
-        return new_node;
+        LinkedListNode<int> node = new LinkedListNode<int>(n);
+        LinkedListNode<int> current;
+        current = myLList.First;
+        while (current != null)
+        {
+            if (current.Value < n)
+            {
+                current = current.Next;
+            }
+            else
+            {
+                return myLList.AddBefore(current, n);
+            }
+        }
+        return myLList.AddBefore(current, n);
     }
 }
