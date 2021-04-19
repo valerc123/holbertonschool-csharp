@@ -17,9 +17,9 @@ class LList
             }
             else
             {
-                return myLList.AddBefore(current, n);
+                return (myLList.AddBefore(current, n));
             }
         }
-        return myLList.AddBefore(current, n);
+        return (myLList.AddBefore(current, n));
     }
 }
