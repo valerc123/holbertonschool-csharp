@@ -13,7 +13,7 @@ class Dictionary
         }else {
             foreach (var item in myList)
             {
-                if (item.Value > big){
+                if (item.Value >= big){
                     big = item.Value;
                     key_big = item.Key;
                 }else{
