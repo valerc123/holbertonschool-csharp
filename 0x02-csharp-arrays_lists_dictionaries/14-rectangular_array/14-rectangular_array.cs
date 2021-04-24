@@ -10,9 +10,8 @@ class Program
         {
             for (int row = 0; row < 5; row++)
             {
-                Console.Write(matrix[col, row]);
+                Console.Write("{0}{1}", matrix[col, row], row == 4 ? "\n": " ");
             }
-            Console.WriteLine();
         }
     }
 }
