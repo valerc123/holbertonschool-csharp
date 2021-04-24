@@ -17,7 +17,7 @@ class Dictionary
                 big = item.Value;
                 key_big = item.Key;
             }else{
-                return key_big;
+                continue;
             }
         }
         return key_big;
