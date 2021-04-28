@@ -7,7 +7,7 @@ namespace Enemies
     {
         /// <summary> Represents the health of the Zombie object.</summary>
         public int health;
-        /// <summary>Initializes a new instance of the <see cref="Zombie"/> class</summary>
+        /// <summary>Initializes a new instance of the <see cref="Zombie"/>
         /// class and takes <paramref name="value"/></summary>
         public Zombie(int value = 0){
             if (value >= 0){
