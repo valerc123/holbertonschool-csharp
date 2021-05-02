@@ -1,18 +1,18 @@
 using NUnit.Framework;
+using System.Collections.Generic;
+using MyMath;
 
-namespace Tests
+namespace MyMath.Tests
 {
-    public class Tests
+    public class OperationsTests
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
         [Test]
-        public void Test1()
+        public void MaxTest()
         {
-            Assert.Pass();
+            var list_test = new List<int>()
+            {10,4,30,88};
+            int max = Operations.Max(list_test);
+            Assert.AreEqual(max, 88);
         }
     }
 }
