@@ -1,18 +1,21 @@
 using NUnit.Framework;
+using System;
+using MyMath;
 
-namespace Tests
+namespace MyMathTests
 {
-    public class Tests
+    public class MatrixTests
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
         [Test]
-        public void Test1()
+        public void DivideTest()
         {
-            Assert.Pass();
+            int num = 2;
+            int[,] matrix = new int[2, 2]
+            {
+                {1, 2}, {3, 4}
+            };
+            int[,] div_res = Matrix.Divide(matrix, num);
+            Assert.AreEqual(matrix, div_res);
         }
     }
 }
