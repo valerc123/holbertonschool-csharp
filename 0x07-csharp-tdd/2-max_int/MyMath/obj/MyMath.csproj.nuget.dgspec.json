@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/MyMath.csproj": {}
+  },
+  "projects": {
+    "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/MyMath.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/MyMath.csproj",
+        "projectName": "MyMath",
+        "projectPath": "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/MyMath.csproj",
+        "packagesPath": "/home/valentina/.nuget/packages/",
+        "outputPath": "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/valentina/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/bin/Debug/netstandard2.0/MyMath.xml
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/bin/Debug/netstandard2.0/MyMath.deps.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/bin/Debug/netstandard2.0/MyMath.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/bin/Debug/netstandard2.0/MyMath.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.csprojAssemblyReference.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.CoreCompileInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfoInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfo.cs
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.pdb
