@@ -1,18 +1,17 @@
 using NUnit.Framework;
+using Text;
+using System;
 
-namespace Tests
+namespace TextTests
 {
-    public class Tests
+    public class StrTests
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
         [Test]
-        public void Test1()
+        public void PalindromeTest()
         {
-            Assert.Pass();
+            string str = "Racecar";
+            bool palindrome = Str.IsPalindrome(str);
+            Assert.IsTrue(palindrome);
         }
     }
 }

@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/MyMath/MyMath.csproj",
-      "projectName": "MyMath",
-      "projectPath": "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/MyMath/MyMath.csproj",
+      "projectUniqueName": "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/Text/Text.csproj",
+      "projectName": "Text",
+      "projectPath": "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/Text/Text.csproj",
       "packagesPath": "/home/valentina/.nuget/packages/",
-      "outputPath": "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/MyMath/obj/",
+      "outputPath": "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/Text/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/valentina/.nuget/NuGet/NuGet.Config"

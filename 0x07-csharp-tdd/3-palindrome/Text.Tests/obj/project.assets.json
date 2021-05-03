@@ -1645,6 +1645,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Text/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Text.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Text.dll": {}
+        }
       }
     }
   },
@@ -5799,6 +5809,11 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Text/1.0.0": {
+      "type": "project",
+      "path": "../Text/Text.csproj",
+      "msbuildProject": "../Text/Text.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5806,6 +5821,7 @@
       "Microsoft.NET.Test.Sdk >= 15.8.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "NUnit3TestAdapter >= 3.10.0",
+      "Text >= 1.0.0",
       "nunit >= 3.10.1"
     ]
   },
@@ -5815,11 +5831,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/MyMath.Tests/MyMath.Tests.csproj",
-      "projectName": "MyMath.Tests",
-      "projectPath": "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/MyMath.Tests/MyMath.Tests.csproj",
+      "projectUniqueName": "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/Text.Tests/Text.Tests.csproj",
+      "projectName": "Text.Tests",
+      "projectPath": "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/Text.Tests/Text.Tests.csproj",
       "packagesPath": "/home/valentina/.nuget/packages/",
-      "outputPath": "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/MyMath.Tests/obj/",
+      "outputPath": "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/Text.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/valentina/.nuget/NuGet/NuGet.Config"
@@ -5832,7 +5848,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/Text/Text.csproj": {
+              "projectPath": "/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/Text/Text.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
