@@ -10,9 +10,9 @@ namespace MyMathTests
         public void MaxTest()
         {
             var list_test = new List<int>()
-            {10,4,30,88};
+            {90, 10,4,30,88};
             int max = Operations.Max(list_test);
-            Assert.AreEqual(max, 88);
+            Assert.AreEqual(max, 90);
         }
         [Test]
 
@@ -25,9 +25,9 @@ namespace MyMathTests
         [Test]
         public void NegNumTest()
         {
-            var list_neg = new List<int>(){-1, 0, -10, -30, 5};
+            var list_neg = new List<int>(){-1, -10, -30, -5};
             int neg = Operations.Max(list_neg);
-            Assert.AreEqual(neg, list_neg.Count);
+            Assert.AreEqual(neg, -1);
         }
     }
 }
