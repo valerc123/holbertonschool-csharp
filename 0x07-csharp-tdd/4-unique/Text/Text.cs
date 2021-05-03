@@ -1,31 +1,45 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
 namespace Text
 {
-    /// <summary>
-    /// Str class.
-    /// </summary>
+    /// <summary> Represents a class Str</summary>
     public class Str
     {
-        /// <summary>
-        /// Returns the index of the first non-repeating character of a string.
-        /// </summary>
+        /// <summary> returns first unique character in string</summary>
         public static int UniqueChar(string s)
         {
-            if (s == null || s.Length == 0)
-            {
+            string s1 = "";
+            string s2 = "";
+
+            if (s == "" || s == null)
                 return -1;
-            }
-            char letter = s[0];
+
+            int rep = 0;
             for (int i = 0; i < s.Length; i++)
             {
-                if (letter != s[i])
+                s1 = s.Substring(i, 1);
+                int indexMin = 0;
+                for (int j = 0; j < s.Length; j++)
                 {
-                    return i;
+                    s2 = s.Substring(j, 1);
+                    if ((s1 == s2) && (i != j))
+                        continue;
+
+                    else if ((s1 != s2) && (i != j))
+                    {
+                        indexMin++;
+                        if (indexMin == s.Length - 1 && rep < indexMin)
+                        {
+                            rep = indexMin;
+                            return(i);
+                        }
+                    }
                 }
-                letter = s[i];
             }
-            return -1;
+            return -1; 
         }
     }
 }
