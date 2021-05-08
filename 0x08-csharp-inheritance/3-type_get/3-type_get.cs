@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Reflection;
 
+///<summary> Obj class </summary>
 class Obj
 {
+    /// <summary>Prints the Properties and Methods names</summary>
     public static void Print(object myObj)
     {
         // Printing the properties of the object
