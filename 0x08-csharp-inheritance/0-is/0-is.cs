@@ -1,13 +1,11 @@
 ﻿using System;
 
-/// <summary> Object Class</summary>
+/// <summary>Obj class</summary>
 class Obj
 {
-    /// <summary> Check if object is an int </summary>
+    /// <summary>Returns True if the object is an int, otherwise return False.</summary>
     public static bool IsOfTypeInt(object obj)
     {
-        if (obj is int)
-            return true;
-        return false;
+        return obj is int;
     }
 }
