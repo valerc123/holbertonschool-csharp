@@ -1,10 +1,14 @@
 ﻿using System;
 
 
-/// <summary> Object Class </summary>
+/// <summary> 
+/// Object Class
+/// </summary>
 class Obj
 {
-    /// <summary> Check if object is an int </summary>
+    /// <summary> 
+    /// Check if object is an int 
+    /// </summary>
     public static bool IsOfTypeInt(object obj)
     {
         if (obj is int) {
