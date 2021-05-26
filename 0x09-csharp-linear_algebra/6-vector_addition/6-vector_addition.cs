@@ -22,6 +22,6 @@ class VectorMath
             result[2] = Math.Round((vector1[2] + vector2[2]), 2);
             return (result);
         }
-        return (-1);
+        return result;
     }
 }
