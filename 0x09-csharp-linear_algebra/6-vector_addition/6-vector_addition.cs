@@ -1,12 +1,27 @@
 ﻿using System;
 
-namespace _6_vector_addition
+/// <summary>
+/// Class VectorMath for Vector Math
+/// </summary>
+class VectorMath
 {
-    class Program
+    /// <summary>
+    /// Add two vectors 2D or 3D
+    /// </summary>
+    public static double[] Add(double[] vector1, double[] vector2)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
+        double[] result;
+        if (vector1.Lenght == 2 && vector2.Lenght == 2){
+            result[0] = Math.Round((vector1[0] + vector2[0]), 2);
+            result[1] = Math.Round((vector1[1] + vector2[1]), 2);
+            return (result);
         }
+        if (vector1.Lenght == 3 && vector2.Lenght == 3){
+            result[0] = Math.Round((vector1[0] + vector2[0]), 2);
+            result[1] = Math.Round((vector1[1] + vector2[1]), 2);
+            result[2] = Math.Round((vector1[2] + vector2[2]), 2);
+            return (result);
+        }
+        return (-1);
     }
 }
