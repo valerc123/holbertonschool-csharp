@@ -6,7 +6,7 @@
 class VectorMath
 {
     /// <summary>
-    /// Add two vectors 2D or 3D
+    /// Add two vectors 2D or 3D and returns the resulting vector.
     /// </summary>
     public static double[] Add(double[] vector1, double[] vector2)
     {
