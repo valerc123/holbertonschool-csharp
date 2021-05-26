@@ -10,7 +10,7 @@ class VectorMath
     /// </summary>
     public static double[] Add(double[] vector1, double[] vector2)
     {
-        double[] result;
+        double[] result = new double[1] { -1 };
         if (vector1.Lenght == 2 && vector2.Lenght == 2){
             result[0] = Math.Round((vector1[0] + vector2[0]), 2);
             result[1] = Math.Round((vector1[1] + vector2[1]), 2);
