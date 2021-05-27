@@ -10,7 +10,7 @@ class MatrixMath
         /// <summary>
         /// method that multiplies a matrix and a scalar and returns the resulting matrix.
         /// </summary>
-        double[,] result new double[,] { { -1 } };
+        double[,] result = new double[,] { { -1 } };
         //double[,] errArr = new double[,] { { -1 } };
 
         if ((matrix.GetLength(0) == 2) && (matrix.GetLength(1) == 2))
