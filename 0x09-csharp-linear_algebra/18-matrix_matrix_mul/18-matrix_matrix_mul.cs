@@ -27,6 +27,6 @@ class MatrixMath
                         oper = oper + matrix1[i, k] * matrix2[k, j];
                     result[i, j] = oper;
                 }
-        return (mul);
+        return (result);
     }
 }
