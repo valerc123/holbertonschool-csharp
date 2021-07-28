@@ -1,11 +1,12 @@
 ﻿using System;
 
-class Queue
+/// <summary>
+/// Generic class queue
+/// </summary>
+public class Queue<T>
 {
-    public class Queue<T>
-    {
-        public Queue<T> CheckType(){
-            
-        }
-    }
+  /// <summary> Checks if input is queue type <summary>
+  public void CheckType(){
+    return typeof(T);
+  }
 }
