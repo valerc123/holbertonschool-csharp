@@ -69,7 +69,7 @@ class Queue<T>
   }
 
   /// <summary>
-  /// Remove the firts node of the Queue
+  /// Gets the first value in the Queue without removing it
   /// </summary>
   /// <returns>The first value</returns>
   public T Peek(){
