@@ -25,6 +25,12 @@ class Queue<T>
   public int count { get; set; }
 
   /// <summary>
+  /// Gets the number of items in the Queue
+  /// </summary>
+  public int Count(){
+    return count;
+  }
+  /// <summary>
   /// Adds a value to the end of the Queue
   /// </summary>
   /// <param name="value">The value to append, of type T</param>
