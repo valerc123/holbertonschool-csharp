@@ -1,0 +1,12 @@
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x0A-csharp-generics/3-peek/bin/Debug/netcoreapp2.1/3-peek.xml
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x0A-csharp-generics/3-peek/bin/Debug/netcoreapp2.1/3-peek.deps.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x0A-csharp-generics/3-peek/bin/Debug/netcoreapp2.1/3-peek.runtimeconfig.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x0A-csharp-generics/3-peek/bin/Debug/netcoreapp2.1/3-peek.runtimeconfig.dev.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x0A-csharp-generics/3-peek/bin/Debug/netcoreapp2.1/3-peek.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x0A-csharp-generics/3-peek/bin/Debug/netcoreapp2.1/3-peek.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/netcoreapp2.1/3-peek.csprojAssemblyReference.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/netcoreapp2.1/3-peek.csproj.CoreCompileInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/netcoreapp2.1/3-peek.AssemblyInfoInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/netcoreapp2.1/3-peek.AssemblyInfo.cs
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/netcoreapp2.1/3-peek.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/netcoreapp2.1/3-peek.pdb
