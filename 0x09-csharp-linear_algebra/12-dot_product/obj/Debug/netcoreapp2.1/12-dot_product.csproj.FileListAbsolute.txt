@@ -1,0 +1,12 @@
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/bin/Debug/netcoreapp2.1/12-dot_product.xml
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/bin/Debug/netcoreapp2.1/12-dot_product.deps.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/bin/Debug/netcoreapp2.1/12-dot_product.runtimeconfig.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/bin/Debug/netcoreapp2.1/12-dot_product.runtimeconfig.dev.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/bin/Debug/netcoreapp2.1/12-dot_product.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/bin/Debug/netcoreapp2.1/12-dot_product.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.csprojAssemblyReference.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.csproj.CoreCompileInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.AssemblyInfoInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.AssemblyInfo.cs
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.pdb

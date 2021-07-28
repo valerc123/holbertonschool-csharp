@@ -6,7 +6,7 @@
 public class Queue<T>
 {
   /// <summary> Checks if input is queue type <summary>
-  public void CheckType(){
+  public Type CheckType(){
     return typeof(T);
   }
 }

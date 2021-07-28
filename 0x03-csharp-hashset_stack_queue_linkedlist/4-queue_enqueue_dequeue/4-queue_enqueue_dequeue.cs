@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-/*using System.Index;
-using System.Range;*/
 class MyQueue
 {
     public static Queue<string> Info(Queue<string> aQueue, string newItem, string search)

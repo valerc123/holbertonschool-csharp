@@ -1,0 +1,12 @@
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/image_processor/bin/Debug/netcoreapp2.1/image_processor.xml
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/image_processor/bin/Debug/netcoreapp2.1/image_processor.deps.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/image_processor/bin/Debug/netcoreapp2.1/image_processor.runtimeconfig.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/image_processor/bin/Debug/netcoreapp2.1/image_processor.runtimeconfig.dev.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/image_processor/bin/Debug/netcoreapp2.1/image_processor.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/image_processor/bin/Debug/netcoreapp2.1/image_processor.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/image_processor/obj/Debug/netcoreapp2.1/image_processor.csprojAssemblyReference.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/image_processor/obj/Debug/netcoreapp2.1/image_processor.csproj.CoreCompileInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/image_processor/obj/Debug/netcoreapp2.1/image_processor.AssemblyInfoInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/image_processor/obj/Debug/netcoreapp2.1/image_processor.AssemblyInfo.cs
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/image_processor/obj/Debug/netcoreapp2.1/image_processor.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/image_processor/obj/Debug/netcoreapp2.1/image_processor.pdb

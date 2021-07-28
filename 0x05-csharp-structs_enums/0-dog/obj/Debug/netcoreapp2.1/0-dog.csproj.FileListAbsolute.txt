@@ -1,0 +1,11 @@
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/bin/Debug/netcoreapp2.1/0-dog.deps.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/bin/Debug/netcoreapp2.1/0-dog.runtimeconfig.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/bin/Debug/netcoreapp2.1/0-dog.runtimeconfig.dev.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/bin/Debug/netcoreapp2.1/0-dog.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/bin/Debug/netcoreapp2.1/0-dog.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/obj/Debug/netcoreapp2.1/0-dog.csprojAssemblyReference.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/obj/Debug/netcoreapp2.1/0-dog.csproj.CoreCompileInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/obj/Debug/netcoreapp2.1/0-dog.AssemblyInfoInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/obj/Debug/netcoreapp2.1/0-dog.AssemblyInfo.cs
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/obj/Debug/netcoreapp2.1/0-dog.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x05-csharp-structs_enums/0-dog/obj/Debug/netcoreapp2.1/0-dog.pdb

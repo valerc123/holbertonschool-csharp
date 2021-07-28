@@ -11,6 +11,5 @@ class Program
         myDict.Add("track", "low level");
         myDict.Add("school", "Holberton");
 
-        Console.WriteLine("Number of keys: {0}", Dictionary.NumberOfKeys(myDict));
     }
 }

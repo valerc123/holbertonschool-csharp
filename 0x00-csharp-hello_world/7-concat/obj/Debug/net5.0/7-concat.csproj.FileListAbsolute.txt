@@ -1,0 +1,16 @@
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/bin/Debug/net5.0/7-concat
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/bin/Debug/net5.0/7-concat.deps.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/bin/Debug/net5.0/7-concat.runtimeconfig.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/bin/Debug/net5.0/7-concat.runtimeconfig.dev.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/bin/Debug/net5.0/7-concat.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/bin/Debug/net5.0/ref/7-concat.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/bin/Debug/net5.0/7-concat.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/7-concat.csprojAssemblyReference.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/7-concat.GeneratedMSBuildEditorConfig.editorconfig
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/7-concat.AssemblyInfoInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/7-concat.AssemblyInfo.cs
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/7-concat.csproj.CoreCompileInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/7-concat.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/ref/7-concat.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/7-concat.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/7-concat/obj/Debug/net5.0/7-concat.genruntimeconfig.cache

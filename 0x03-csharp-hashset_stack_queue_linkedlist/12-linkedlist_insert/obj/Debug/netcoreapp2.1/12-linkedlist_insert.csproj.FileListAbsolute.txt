@@ -1,0 +1,11 @@
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp2.1/12-linkedlist_insert.csprojAssemblyReference.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp2.1/12-linkedlist_insert.csproj.CoreCompileInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp2.1/12-linkedlist_insert.AssemblyInfoInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp2.1/12-linkedlist_insert.AssemblyInfo.cs
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/netcoreapp2.1/12-linkedlist_insert.deps.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/netcoreapp2.1/12-linkedlist_insert.runtimeconfig.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/netcoreapp2.1/12-linkedlist_insert.runtimeconfig.dev.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/netcoreapp2.1/12-linkedlist_insert.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/netcoreapp2.1/12-linkedlist_insert.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp2.1/12-linkedlist_insert.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp2.1/12-linkedlist_insert.pdb

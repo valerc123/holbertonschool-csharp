@@ -1,0 +1,4 @@
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/obj/Debug/netcoreapp2.1/14-matrix_addition.csprojAssemblyReference.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/obj/Debug/netcoreapp2.1/14-matrix_addition.csproj.CoreCompileInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/obj/Debug/netcoreapp2.1/14-matrix_addition.AssemblyInfoInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/obj/Debug/netcoreapp2.1/14-matrix_addition.AssemblyInfo.cs

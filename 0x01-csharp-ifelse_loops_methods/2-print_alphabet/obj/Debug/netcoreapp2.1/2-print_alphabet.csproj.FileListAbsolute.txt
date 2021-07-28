@@ -1,0 +1,11 @@
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/netcoreapp2.1/2-print_alphabet.deps.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/netcoreapp2.1/2-print_alphabet.runtimeconfig.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/netcoreapp2.1/2-print_alphabet.runtimeconfig.dev.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/netcoreapp2.1/2-print_alphabet.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/netcoreapp2.1/2-print_alphabet.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/netcoreapp2.1/2-print_alphabet.csprojAssemblyReference.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/netcoreapp2.1/2-print_alphabet.csproj.CoreCompileInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/netcoreapp2.1/2-print_alphabet.AssemblyInfoInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/netcoreapp2.1/2-print_alphabet.AssemblyInfo.cs
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/netcoreapp2.1/2-print_alphabet.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/netcoreapp2.1/2-print_alphabet.pdb

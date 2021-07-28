@@ -6,12 +6,13 @@ class Program
     static void Main(string[] args)
     {
         Dictionary<string, int> myDict = new Dictionary<string, int>();
+        myDict.Add("Alex", 0);
 
-        myDict.Add("John", 12);
+       /* myDict.Add("John", 12);
         myDict.Add("Alex", 8);
         myDict.Add("Bob", 14);
         myDict.Add("Molly", 16);
-        myDict.Add("Mary", 14);
+        myDict.Add("Mary", 14);*/
 
         Console.WriteLine("Best Score: {0}", Dictionary.BestScore(myDict));
     }

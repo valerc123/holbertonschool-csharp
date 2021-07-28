@@ -20,12 +20,12 @@ namespace Text
                 return true;
             }else{
                 for (int i = 0; i < s.Length; i++)
-                foreach (char letter in s)
-                {
-                    if (!Char.IsPunctuation(letter) && !Char.IsWhiteSpace(letter))
-                        copyString.Add(Char.ToLower(letter));
-                   
-                }
+                    foreach (char letter in s)
+                    {
+                        if (!Char.IsPunctuation(letter) && !Char.IsWhiteSpace(letter))
+                            copyString.Add(Char.ToLower(letter));
+                    
+                    }
             }
             List<char> revstr = new List<char>(copyString);
             revstr.Reverse();
