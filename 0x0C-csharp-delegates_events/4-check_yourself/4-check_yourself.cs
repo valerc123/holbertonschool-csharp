@@ -93,9 +93,9 @@ class Player
         if(damage <= 0){
             Console.WriteLine("{0} takes 0 damage!", this.name);
         }else{
-            ValidateHP(this.hp - damage);
             Console.WriteLine("{0} takes {1} damage!", this.name, damage);
         }
+        ValidateHP(this.hp - damage);
     }
 
     /// <summary>
@@ -105,9 +105,9 @@ class Player
         if(heal <= 0){
             Console.WriteLine("{0} heals 0 HP!", this.name);
         }else{
-            ValidateHP(this.hp + heal);
             Console.WriteLine("{0} heals {1} HP!", this.name, heal);
         }
+        ValidateHP(this.hp + heal);
     }
 
     /// <summary>
@@ -123,7 +123,7 @@ class Player
         else {
             this.hp = newHp;
         }
-        HPCheck.Invoke(this, new CurrentHPArgs(hp));
+        HPCheck(this, new CurrentHPArgs(this.hp));
     }
 
     /// <summary>
