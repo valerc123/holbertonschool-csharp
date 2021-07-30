@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>0-universal_health</name>
+    </assembly>
+    <members>
+        <member name="T:Player">
+            <summary>
+            Creates a public Player class
+            </summary>
+        </member>
+        <member name="M:Player.#ctor(System.String,System.Single)">
+            <summary>
+            Player Constructor
+            </summary>
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary>
+            Display current health
+            </summary>
+        </member>
+    </members>
+</doc>
