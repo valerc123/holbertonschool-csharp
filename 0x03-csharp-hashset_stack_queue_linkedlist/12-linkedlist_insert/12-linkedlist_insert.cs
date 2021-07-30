@@ -6,8 +6,9 @@ class LList
 {
   public static LinkedListNode<int> Insert(LinkedList<int> myLList, int n)
     {
-        LinkedListNode<int> node = new LinkedListNode<int>(n);
+     //   LinkedListNode<int> node = new LinkedListNode<int>(n);
         LinkedListNode<int> current;
+        LinkedListNode<int> test ;
         current = myLList.First;
         while (current != null)
         {
@@ -17,9 +18,10 @@ class LList
             }
             else
             {
-                return (myLList.AddBefore(current, n));
+               test = myLList.AddBefore(current, n);
+                return test;
             }
         }
-        return (myLList.AddBefore(current, n));
+        return test;//  (myLList.AddBefore(current, n));
     }
 }

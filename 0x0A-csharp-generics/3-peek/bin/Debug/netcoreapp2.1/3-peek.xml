@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-peek</name>
+    </assembly>
+    <members>
+        <member name="T:Queue`1">
+            <summary>
+            Generic class queue
+            </summary>
+            <typeparam name="T">The type the Queue contains</typeparam>
+        </member>
+        <member name="P:Queue`1.head">
+            <summary>
+            The first node (head) in the Queue
+            </summary>
+            <value>gets/sets the head Node</value>
+        </member>
+        <member name="P:Queue`1.tail">
+            <summary>
+            The last node (tail) in the Queue
+            </summary>
+            <value>gets/sets the tail Node</value>
+        </member>
+        <member name="P:Queue`1.count">
+            <summary>
+            The number of nodes in the Queue
+            </summary>
+            <value>gets/sets the count int</value>
+        </member>
+        <member name="M:Queue`1.Count">
+            <summary>
+            Gets the number of items in the Queue
+            </summary>
+        </member>
+        <member name="M:Queue`1.Enqueue(`0)">
+            <summary>
+            Adds a value to the end of the Queue
+            </summary>
+            <param name="value">The value to append, of type T</param>
+        </member>
+        <member name="M:Queue`1.Dequeue">
+            <summary>
+            Remove the firts node of the Queue
+            </summary>
+            <returns>The first value of node removed</returns>
+        </member>
+        <member name="M:Queue`1.Peek">
+            <summary>
+            Remove the firts node of the Queue
+            </summary>
+            <returns>The first value</returns>
+        </member>
+        <member name="M:Queue`1.CheckType">
+            <summary> 
+            Checks if input is queue type 
+            </summary>
+        </member>
+        <member name="T:Queue`1.Node">
+            <summary>
+            Create a node to store data for the Queue
+            </summary>
+        </member>
+        <member name="P:Queue`1.Node.value">
+            <summary>
+            The value that the node contains
+            </summary>
+            <value>The value property gets/sets the value property of type T</value>
+        </member>
+        <member name="P:Queue`1.Node.next">
+            <summary>
+            The next node in the linked list
+            </summary>
+            <value>The next property gets/sets the next property of type Node</value>
+        </member>
+    </members>
+</doc>

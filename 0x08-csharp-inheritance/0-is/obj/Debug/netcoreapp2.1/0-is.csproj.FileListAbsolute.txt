@@ -1,0 +1,11 @@
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.csprojAssemblyReference.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.csproj.CoreCompileInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.AssemblyInfoInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.AssemblyInfo.cs
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x08-csharp-inheritance/0-is/bin/Debug/netcoreapp2.1/0-is.deps.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x08-csharp-inheritance/0-is/bin/Debug/netcoreapp2.1/0-is.runtimeconfig.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x08-csharp-inheritance/0-is/bin/Debug/netcoreapp2.1/0-is.runtimeconfig.dev.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x08-csharp-inheritance/0-is/bin/Debug/netcoreapp2.1/0-is.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x08-csharp-inheritance/0-is/bin/Debug/netcoreapp2.1/0-is.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.pdb

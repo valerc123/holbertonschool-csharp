@@ -1,0 +1,11 @@
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp2.1/3-print_array_reverse.deps.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp2.1/3-print_array_reverse.runtimeconfig.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp2.1/3-print_array_reverse.runtimeconfig.dev.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp2.1/3-print_array_reverse.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp2.1/3-print_array_reverse.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.csprojAssemblyReference.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.csproj.CoreCompileInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.AssemblyInfoInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.AssemblyInfo.cs
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.pdb

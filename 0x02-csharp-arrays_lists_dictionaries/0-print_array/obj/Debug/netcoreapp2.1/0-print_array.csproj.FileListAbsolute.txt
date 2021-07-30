@@ -1,0 +1,11 @@
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/netcoreapp2.1/0-print_array.csprojAssemblyReference.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/netcoreapp2.1/0-print_array.csproj.CoreCompileInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/netcoreapp2.1/0-print_array.AssemblyInfoInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/netcoreapp2.1/0-print_array.AssemblyInfo.cs
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/netcoreapp2.1/0-print_array.deps.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/netcoreapp2.1/0-print_array.runtimeconfig.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/netcoreapp2.1/0-print_array.runtimeconfig.dev.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/netcoreapp2.1/0-print_array.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/netcoreapp2.1/0-print_array.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/netcoreapp2.1/0-print_array.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/netcoreapp2.1/0-print_array.pdb

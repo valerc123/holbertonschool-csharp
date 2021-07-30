@@ -1,0 +1,11 @@
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-number_keys/bin/Debug/netcoreapp2.1/8-number_keys.deps.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-number_keys/bin/Debug/netcoreapp2.1/8-number_keys.runtimeconfig.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-number_keys/bin/Debug/netcoreapp2.1/8-number_keys.runtimeconfig.dev.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-number_keys/bin/Debug/netcoreapp2.1/8-number_keys.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-number_keys/bin/Debug/netcoreapp2.1/8-number_keys.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-number_keys/obj/Debug/netcoreapp2.1/8-number_keys.csprojAssemblyReference.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-number_keys/obj/Debug/netcoreapp2.1/8-number_keys.csproj.CoreCompileInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-number_keys/obj/Debug/netcoreapp2.1/8-number_keys.AssemblyInfoInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-number_keys/obj/Debug/netcoreapp2.1/8-number_keys.AssemblyInfo.cs
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-number_keys/obj/Debug/netcoreapp2.1/8-number_keys.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-number_keys/obj/Debug/netcoreapp2.1/8-number_keys.pdb

@@ -1,0 +1,11 @@
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x04-csharp-exceptions/obj/Debug/netcoreapp2.1/0x04-csharp-exceptions.csprojAssemblyReference.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x04-csharp-exceptions/obj/Debug/netcoreapp2.1/0x04-csharp-exceptions.csproj.CoreCompileInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x04-csharp-exceptions/obj/Debug/netcoreapp2.1/0x04-csharp-exceptions.AssemblyInfoInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x04-csharp-exceptions/obj/Debug/netcoreapp2.1/0x04-csharp-exceptions.AssemblyInfo.cs
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x04-csharp-exceptions/bin/Debug/netcoreapp2.1/0x04-csharp-exceptions.deps.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x04-csharp-exceptions/bin/Debug/netcoreapp2.1/0x04-csharp-exceptions.runtimeconfig.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x04-csharp-exceptions/bin/Debug/netcoreapp2.1/0x04-csharp-exceptions.runtimeconfig.dev.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x04-csharp-exceptions/bin/Debug/netcoreapp2.1/0x04-csharp-exceptions.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x04-csharp-exceptions/bin/Debug/netcoreapp2.1/0x04-csharp-exceptions.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x04-csharp-exceptions/obj/Debug/netcoreapp2.1/0x04-csharp-exceptions.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x04-csharp-exceptions/obj/Debug/netcoreapp2.1/0x04-csharp-exceptions.pdb

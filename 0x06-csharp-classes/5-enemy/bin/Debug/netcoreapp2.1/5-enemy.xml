@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary> Represents a Zombie </summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary> Represents the health of the Zombie object.</summary>
+        </member>
+        <member name="F:Enemies.Zombie.name">
+            <summary> Represents the name of the Zombie.</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary>Initializes a new instance of the <see cref="T:Enemies.Zombie"/>
+            class and takes <paramref name="value"/></summary>
+        </member>
+        <member name="P:Enemies.Zombie.Name">
+            <summary> Getter and setter the name of the Zombie </summary>
+        </member>
+        <member name="M:Enemies.Zombie.GetHealth">
+            <summary> Gets the value of health of the Zombie object </summary>
+            <returns> health of zombie</returns>
+        </member>
+        <member name="M:Enemies.Zombie.ToString">
+            <summary> override ToString method </summary>
+        </member>
+    </members>
+</doc>

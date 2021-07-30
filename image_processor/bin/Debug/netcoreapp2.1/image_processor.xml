@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>image_processor</name>
+    </assembly>
+    <members>
+        <member name="T:ImageProcessor">
+            <summary>
+            Class imageProcessor
+            </summary>
+        </member>
+    </members>
+</doc>

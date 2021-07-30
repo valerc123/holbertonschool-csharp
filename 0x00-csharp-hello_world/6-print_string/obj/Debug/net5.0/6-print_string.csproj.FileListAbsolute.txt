@@ -1,0 +1,16 @@
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/net5.0/6-print_string
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/net5.0/6-print_string.deps.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/net5.0/6-print_string.runtimeconfig.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/net5.0/6-print_string.runtimeconfig.dev.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/net5.0/6-print_string.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/net5.0/ref/6-print_string.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/net5.0/6-print_string.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/6-print_string.csprojAssemblyReference.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/6-print_string.GeneratedMSBuildEditorConfig.editorconfig
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/6-print_string.AssemblyInfoInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/6-print_string.AssemblyInfo.cs
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/6-print_string.csproj.CoreCompileInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/6-print_string.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/ref/6-print_string.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/6-print_string.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/net5.0/6-print_string.genruntimeconfig.cache

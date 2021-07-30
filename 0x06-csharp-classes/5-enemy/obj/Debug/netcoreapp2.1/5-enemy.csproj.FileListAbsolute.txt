@@ -1,0 +1,12 @@
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp2.1/5-enemy.xml
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp2.1/5-enemy.deps.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp2.1/5-enemy.runtimeconfig.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp2.1/5-enemy.runtimeconfig.dev.json
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp2.1/5-enemy.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp2.1/5-enemy.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp2.1/5-enemy.csprojAssemblyReference.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp2.1/5-enemy.csproj.CoreCompileInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp2.1/5-enemy.AssemblyInfoInputs.cache
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp2.1/5-enemy.AssemblyInfo.cs
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp2.1/5-enemy.dll
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp2.1/5-enemy.pdb
