@@ -31,6 +31,9 @@ class Player
 
     private delegate void CalculateHealth(float amount);
 
+    /// <summary>
+    /// Applies damage to player.
+    /// </summary>
     public void TakeDamage(float damage){
         if(damage <= 0){
             Console.WriteLine("{0} takes 0 damage!", this.name);
@@ -39,6 +42,9 @@ class Player
         }
     }
 
+    /// <summary>
+    /// Rejuvinates player HP.
+    /// </summary>
     public void HealDamage(float heal){
         if(heal <= 0){
             Console.WriteLine("{0} heals 0 HP!", this.name);
