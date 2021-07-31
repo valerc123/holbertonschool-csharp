@@ -9,3 +9,4 @@
 /home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/obj/Debug/netcoreapp2.1/0-abstract_thinking.AssemblyInfo.cs
 /home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/obj/Debug/netcoreapp2.1/0-abstract_thinking.dll
 /home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/obj/Debug/netcoreapp2.1/0-abstract_thinking.pdb
+/home/valentina/Documents/holberton/AR-VR/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/bin/Debug/netcoreapp2.1/0-abstract_thinking.xml

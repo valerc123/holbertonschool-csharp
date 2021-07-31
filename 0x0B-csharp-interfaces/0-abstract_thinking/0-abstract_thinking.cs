@@ -11,7 +11,8 @@ abstract class Base
     /// Gets the string representation of the instance.
     /// </summary>
     /// <returns>The string representation.</returns>
-    public override string ToString(){
-        return String.Format("{0} is a {1}", name, GetType());
+    public override string ToString()
+    {
+        return String.Format("{0} is a {1}", name, GetType().Name);
     }
 }
