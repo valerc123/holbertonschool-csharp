@@ -68,7 +68,7 @@ class Door : Base, IInteractive
 /// </summary>
 class Decoration : Base, IInteractive, IBreakable
 {
-    public int durability { get; set; } 
+    public int durability { get; set; } = 1;
     public bool isQuestItem { get; set; }  
 
     /// <summary>
