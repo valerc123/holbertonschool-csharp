@@ -92,12 +92,12 @@ class Decoration : Base, IInteractive, IBreakable
     /// </summary>
     public void Interact(){
         if(this.durability <= 0){
-            Console.WriteLine($"The {this.name} has been broken.");
+            Console.WriteLine("The {0} has been broken.",  this.name);
         }
         else if(this.isQuestItem){
-            Console.WriteLine($"You look at the {this.name}. There's a key inside.");
+            Console.WriteLine("You look at the {0}. There's a key inside.", this.name);
         }else{
-            Console.WriteLine($"You look at the {this.name}. Not much to see here.");
+            Console.WriteLine("You look at the {0}. Not much to see here.", this.name);
         }
     }
 
@@ -106,13 +106,13 @@ class Decoration : Base, IInteractive, IBreakable
     /// </summary>
     public void Break() {
         if (this.durability < 0){
-            Console.WriteLine($"The {this.name} is already broken.");
+            Console.WriteLine("The {0} is already broken.", this.name);
         }
         this.durability--;
         if (this.durability == 0){
-            Console.WriteLine($"You smash the {this.name}. What a mess.");
+            Console.WriteLine("You smash the {0}. What a mess.", this.name);
         }else{
-            Console.WriteLine($"You hit the {this.name}. It cracks.");
+            Console.WriteLine("You hit the {0}. It cracks.", this.name);
         }
     }
 }
