@@ -5,7 +5,7 @@
 /// </summary>
 abstract class Base
 {
-    public string name;
+    public string name = "";
 
     /// <summary>
     /// Gets the string representation of the instance.
