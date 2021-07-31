@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>6-generic_iteration</name>
+    </assembly>
+    <members>
+        <member name="T:Base">
+            <summary>
+            Provides an abstract base class.
+            </summary>
+        </member>
+        <member name="M:Base.ToString">
+            <summary>
+            Gets the string representation of the instance.
+            </summary>
+            <returns>The string representation.</returns>
+        </member>
+        <member name="T:IInteractive">
+            <summary>
+            Defines the properties of an interactive object
+            </summary>
+        </member>
+        <member name="T:IBreakable">
+            <summary>
+            Defines the properties of a breakable object
+            </summary>
+        </member>
+        <member name="T:ICollectable">
+            <summary>
+            Defines the properties of a collectable object
+            </summary>
+        </member>
+        <member name="T:Door">
+            <summary>
+            Represents a Door.
+            </summary>
+        </member>
+        <member name="M:Door.#ctor(System.String)">
+            <summary>
+            Sets the name of the Door.
+            </summary>
+        </member>
+        <member name="M:Door.Interact">
+            <summary>
+            Prints interaction string.
+            </summary>
+        </member>
+        <member name="T:Decoration">
+            <summary>
+            Represents a Decoration.
+            </summary>
+        </member>
+        <member name="M:Decoration.#ctor(System.String,System.Int32,System.Boolean)">
+            <summary>
+            The decoration constructor.
+            </summary>
+            <param name="name">The nameof the Decoration.</param>
+            <param name="durability">The durability of the Decoration.</param>
+            <param name="isQuestItem">Whether the Decoration is a quest item.</param>
+        </member>
+        <member name="M:Decoration.Interact">
+            <summary>
+            Interacts with the Decoration.
+            </summary>
+        </member>
+        <member name="M:Decoration.Break">
+            <summary>
+            Attempts to break the Decoration.
+            </summary>
+        </member>
+        <member name="T:Key">
+            <summary>
+            Collectible key
+            </summary>
+        </member>
+        <member name="M:Key.#ctor(System.String,System.Boolean)">
+            <summary>The Key constructor.</summary>
+            <param name="name">The name of the Key.</param>
+            <param name="isCollected">Whether the Key has been collected.</param>
+        </member>
+        <member name="M:Key.Collect">
+            <summary>Collects the Key.</summary>
+        </member>
+        <member name="T:Objs`1">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>
