@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-user_interface</name>
+    </assembly>
+    <members>
+        <member name="T:Base">
+            <summary>
+            Provides an abstract base class.
+            </summary>
+        </member>
+        <member name="M:Base.ToString">
+            <summary>
+            Gets the string representation of the instance.
+            </summary>
+            <returns>The string representation.</returns>
+        </member>
+        <member name="T:TestObject">
+            <summary>
+            Provides a class that inherits from IInteractive, IBreakable, and ICollectable.
+            </summary>
+        </member>
+    </members>
+</doc>
