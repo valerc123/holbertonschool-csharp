@@ -155,10 +155,6 @@ class Key : Base, ICollectable
     }
 }
 
-
-/// <summary>
-/// 
-/// </summary>
 class Objs<T> : IEnumerable<T>
 {
     List<T> collection = new List<T>();
