@@ -91,16 +91,19 @@ class Decoration : Base, IInteractive, IBreakable
     /// Interacts with the Decoration.
     /// </summary>
     public void Interact(){
-        if(this.durability <= 0){
-            Console.WriteLine($"The {this.name} has been broken.");
+       if (durability <= 0)
+        {
+            Console.WriteLine($"The {name} has been broken.");
             return;
         }
-        else if(this.isQuestItem){
-            Console.WriteLine($"You look at the {this.name}. There's a key inside.");
+
+        if (isQuestItem)
+        {
+            Console.WriteLine($"You look at the {name}. There's a key inside.");
             return;
-        }else{
-            Console.WriteLine($"You look at the {this.name}. Not much to see here.");
         }
+
+        Console.WriteLine($"You look at the {name}. Not much to see here.");
     }
 
     /// <summary>
