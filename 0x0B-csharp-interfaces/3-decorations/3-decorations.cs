@@ -63,12 +63,20 @@ class Door : Base, IInteractive
     }
 }
 
-
+/// <summary>
+/// Represents a Decoration.
+/// </summary>
 class Decoration : Base, IInteractive, IBreakable
 {
     public int durability { get; set; } = 1;
     public bool isQuestItem = false;
 
+    /// <summary>
+    /// The decoration constructor.
+    /// </summary>
+    /// <param name="name">The nameof the Decoration.</param>
+    /// <param name="durability">The durability of the Decoration.</param>
+    /// <param name="isQuestItem">Whether the Decoration is a quest item.</param>
     public Decoration(string name = "Decoration", int durability = 1, bool isQuestItem = false){
         
         if (this.durability <= 0){
@@ -79,6 +87,9 @@ class Decoration : Base, IInteractive, IBreakable
         this.isQuestItem = isQuestItem;
     }
 
+    /// <summary>
+    /// Interacts with the Decoration.
+    /// </summary>
     public void Interact(){
         if(this.durability <= 0){
             Console.WriteLine($"The {this.name} has been broken.");
@@ -91,6 +102,9 @@ class Decoration : Base, IInteractive, IBreakable
         }
     }
 
+    /// <summary>
+    /// Attempts to break the Decoration.
+    /// </summary>
     public void Break() {
         this.durability--;
         if (this.durability < 0){
