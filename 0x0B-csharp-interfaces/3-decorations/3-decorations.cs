@@ -94,8 +94,7 @@ class Decoration : Base, IInteractive, IBreakable
         if(this.durability <= 0){
             Console.WriteLine($"The {this.name} has been broken.");
         }
-
-        if(this.isQuestItem){
+        else if(this.isQuestItem){
             Console.WriteLine($"You look at the {this.name}. There's a key inside.");
         }else{
             Console.WriteLine($"You look at the {this.name}. Not much to see here.");
@@ -106,14 +105,14 @@ class Decoration : Base, IInteractive, IBreakable
     /// Attempts to break the Decoration.
     /// </summary>
     public void Break() {
-        this.durability--;
         if (this.durability < 0){
             Console.WriteLine($"The {this.name} is already broken.");
         }
-        else if (this.durability == 0){
+        this.durability--;
+        if (this.durability == 0){
             Console.WriteLine($"You smash the {this.name}. What a mess.");
         }else{
-            Console.WriteLine($"The {this.name} is already broken.");
+            Console.WriteLine($"You hit the {this.name}. It cracks.");
         }
     }
 }
